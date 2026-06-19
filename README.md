@@ -20,7 +20,8 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<img align="center"width="90" height="90" alt="Image" src="https://media.tenor.com/N--OnDx9xAQAAAAC/unigrid-decentralization.gif<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d894ed46-81df-42ee-b850-b629746f98a8"
+ />
 </div>
 
 ##
