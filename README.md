@@ -4,11 +4,7 @@
 - 🌱 Atualmente cursando Engenharia de Software
 - 📫 Contate-me no email: joaomiez@gmail.com
 
-<div>
-  <a href="htpps://github.com/joaomiez">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaomiez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomiez&layout=compact&langs_count=16&theme=dracula"/>
-  </div>
+<p><img align="center" src="https://github-readme-stats.shion.dev/api?username=joaomiez&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
   ##
 
